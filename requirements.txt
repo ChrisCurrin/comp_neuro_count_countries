@@ -1,0 +1,5 @@
+requests
+requests-xml
+pandas
+bokeh
+seaborn

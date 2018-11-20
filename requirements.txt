@@ -3,3 +3,5 @@ requests-xml
 pandas
 bokeh
 seaborn
+svgutils
+selenium

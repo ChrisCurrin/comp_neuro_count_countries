@@ -2,7 +2,7 @@
 *according to PubMed
 ## Code for figure 1 in paper "Think: Theory for Africa"
 
-![Figure 1: African contributions to neuroscience and computational neuroscience research](./figure.svg)
+![Figure 1: African contributions to neuroscience and computational neuroscience research](./figure_1.svg)
 > **Figure 1: African contributions to neuroscience and computational neuroscience research.**
 
 > Countries are ranked according to the number of neuroscience publications (crosses) generated and indexed on PubMed. The number of computational neuroscience publications produced by each country are indicated by circles. Most contributing African countries (orange, black text) and a subset of global countries (blue, grey text) are labelled on the left. 

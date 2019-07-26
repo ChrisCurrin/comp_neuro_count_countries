@@ -1,6 +1,6 @@
 # Computational Neuroscience publications by country*
 *according to PubMed
-## Code for figure 1 in paper "Think: Theory for Africa"
+## Code for figure 1 in paper [Think: Theory for Africa](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007049) in PLoS Computational Biology
 
 ![Figure 1: African contributions to neuroscience and computational neuroscience research](./figure_1.svg)
 > **Figure 1: African contributions to neuroscience and computational neuroscience research.**

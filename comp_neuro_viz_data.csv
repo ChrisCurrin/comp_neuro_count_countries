@@ -1,251 +1,251 @@
 alpha-2,name,count_cn,count_neuro,region
-AF,Afghanistan,1,7,Asia
-AX,Åland Islands,0,0,Europe
-AL,Albania,0,19,Europe
-DZ,Algeria,3,42,Africa
+AF,Afghanistan,3,21,Asia
+AX,Åland Islands,0,1,Europe
+AL,Albania,5,105,Europe
+DZ,Algeria,17,109,Africa
 AS,American Samoa,0,0,Oceania
-AD,Andorra,0,3,Europe
-AO,Angola,0,1,Africa
-AI,Anguilla,0,1,Americas
+AD,Andorra,1,9,Europe
+AO,Angola,2,16,Africa
+AI,Anguilla,1,2,Americas
 AQ,Antarctica,0,0,NA
-AG,Antigua and Barbuda,0,6,Americas
-AR,Argentina,84,1108,Americas
-AM,Armenia,1,19,Asia
-AW,Aruba,0,2,Americas
-AU,Australia,926,15748,Oceania
-AT,Austria,265,2558,Europe
-AZ,Azerbaijan,0,8,Asia
-BS,Bahamas,0,3,Americas
-BH,Bahrain,1,49,Asia
-BD,Bangladesh,10,107,Asia
-BB,Barbados,1,3,Americas
-BY,Belarus,10,27,Europe
-BE,Belgium,434,5958,Europe
-BZ,Belize,0,2,Americas
-BJ,Benin,3,22,Africa
-BM,Bermuda,0,0,Americas
-BT,Bhutan,0,0,Asia
-BO,Bolivia ,0,14,Americas
+AG,Antigua and Barbuda,2,15,Americas
+AR,Argentina,332,2334,Americas
+AM,Armenia,12,91,Asia
+AW,Aruba,0,4,Americas
+AU,Australia,3591,30492,Oceania
+AT,Austria,1078,6441,Europe
+AZ,Azerbaijan,7,39,Asia
+BS,Bahamas,1,5,Americas
+BH,Bahrain,18,104,Asia
+BD,Bangladesh,75,580,Asia
+BB,Barbados,5,13,Americas
+BY,Belarus,28,67,Europe
+BE,Belgium,1786,13440,Europe
+BZ,Belize,1,5,Americas
+BJ,Benin,13,72,Africa
+BM,Bermuda,0,1,Americas
+BT,Bhutan,2,3,Asia
+BO,Bolivia (Plurinational State of),0,0,Americas
 BQ,"Bonaire, Sint Eustatius and Saba",0,0,Americas
-BA,Bosnia and Herzegovina,1,23,Europe
-BW,Botswana,2,10,Africa
+BA,Bosnia and Herzegovina,16,67,Europe
+BW,Botswana,17,39,Africa
 BV,Bouvet Island,0,0,Americas
-BR,Brazil,294,4676,Americas
+BR,Brazil,1194,10371,Americas
 IO,British Indian Ocean Territory,0,0,Africa
-BN,Brunei Darussalam,0,7,Asia
-BG,Bulgaria,22,138,Europe
-BF,Burkina Faso,0,2,Africa
-BI,Burundi,0,2,Africa
-CV,Cabo Verde,0,0,Africa
-KH,Cambodia,0,1,Asia
-CM,Cameroon,2,26,Africa
-CA,Canada,1212,22068,Americas
-KY,Cayman Islands,0,1,Americas
-CF,Central African Republic,1,6,Africa
-TD,Chad,0,12,Africa
-CL,Chile,80,1041,Americas
-CN,China,823,13302,Asia
+BN,Brunei Darussalam,1,23,Asia
+BG,Bulgaria,74,441,Europe
+BF,Burkina Faso,0,12,Africa
+BI,Burundi,1,13,Africa
+CV,Cabo Verde,0,2,Africa
+KH,Cambodia,1,6,Asia
+CM,Cameroon,19,127,Africa
+CA,Canada,5152,41095,Americas
+KY,Cayman Islands,1,9,Americas
+CF,Central African Republic,1,15,Africa
+TD,Chad,2,29,Africa
+CL,Chile,365,2575,Americas
+CN,China,4035,30412,Asia
 CX,Christmas Island,0,0,Oceania
-CC,Cocos  Islands,0,0,Oceania
-CO,Colombia,60,591,Americas
+CC,Cocos (Keeling) Islands,0,0,Oceania
+CO,Colombia,233,1512,Americas
 KM,Comoros,0,0,Africa
-CG,Congo,1,23,Africa
-CD,Congo ,1,23,Africa
+CG,Congo,4,81,Africa
+CD,"Congo, Democratic Republic of the",0,0,Africa
 CK,Cook Islands,0,0,Oceania
-CR,Costa Rica,4,56,Americas
-CI,Côte d'Ivoire,0,9,Africa
-HR,Croatia,56,352,Europe
-CU,Cuba,30,269,Americas
-CW,Curaçao,0,10,Americas
-CY,Cyprus,31,208,Asia
-CZ,Czechia,4,32,Europe
-DK,Denmark,426,5005,Europe
+CR,Costa Rica,16,153,Americas
+CI,Côte d'Ivoire,5,32,Africa
+HR,Croatia,164,895,Europe
+CU,Cuba,119,459,Americas
+CW,Curaçao,2,41,Americas
+CY,Cyprus,127,657,Asia
+CZ,Czechia,43,227,Europe
+DK,Denmark,1587,10528,Europe
 DJ,Djibouti,0,0,Africa
-DM,Dominica,0,1,Americas
-DO,Dominican Republic,0,12,Americas
-EC,Ecuador,1,44,Americas
-EG,Egypt,20,284,Africa
-SV,El Salvador,1,2,Americas
+DM,Dominica,1,3,Americas
+DO,Dominican Republic,3,49,Americas
+EC,Ecuador,34,223,Americas
+EG,Egypt,156,1156,Africa
+SV,El Salvador,1,9,Americas
 GQ,Equatorial Guinea,0,0,Africa
-ER,Eritrea,0,28,Africa
-EE,Estonia,60,287,Europe
-SZ,Eswatini,0,0,Africa
-ET,Ethiopia,1,100,Africa
-FK,Falkland Islands ,0,0,Americas
-FO,Faroe Islands,0,9,Europe
-FJ,Fiji,1,4,Oceania
-FI,Finland,248,3427,Europe
-FR,France,1196,15980,Europe
-GF,French Guiana,0,3,Americas
-PF,French Polynesia,0,1,Oceania
+ER,Eritrea,1,29,Africa
+EE,Estonia,184,621,Europe
+SZ,Eswatini,0,2,Africa
+ET,Ethiopia,38,341,Africa
+FK,Falkland Islands (Malvinas),0,0,Americas
+FO,Faroe Islands,2,19,Europe
+FJ,Fiji,2,6,Oceania
+FI,Finland,1092,6827,Europe
+FR,France,4127,31170,Europe
+GF,French Guiana,0,5,Americas
+PF,French Polynesia,2,7,Oceania
 TF,French Southern Territories,0,0,Africa
-GA,Gabon,0,0,Africa
-GM,Gambia,1,3,Africa
-GE,Georgia,167,2394,Asia
-DE,Germany,2951,21224,Europe
-GH,Ghana,8,69,Africa
-GI,Gibraltar,1,4,Europe
-GR,Greece,150,1175,Europe
-GL,Greenland,1,4,Americas
-GD,Grenada,4,152,Americas
-GP,Guadeloupe,1,5,Americas
-GU,Guam,0,4,Oceania
-GT,Guatemala,0,9,Americas
-GG,Guernsey,0,3,Europe
-GN,Guinea,0,14,Africa
-GW,Guinea-Bissau,0,9,Africa
-GY,Guyana,0,4,Americas
-HT,Haiti,2,3,Americas
+GA,Gabon,1,11,Africa
+GM,Gambia,9,23,Africa
+GE,Georgia,824,4911,Asia
+DE,Germany,8964,44475,Europe
+GH,Ghana,55,231,Africa
+GI,Gibraltar,2,32,Europe
+GR,Greece,544,2933,Europe
+GL,Greenland,1,6,Americas
+GD,Grenada,49,491,Americas
+GP,Guadeloupe,1,14,Americas
+GU,Guam,0,5,Oceania
+GT,Guatemala,2,31,Americas
+GG,Guernsey,0,9,Europe
+GN,Guinea,1,29,Africa
+GW,Guinea-Bissau,0,12,Africa
+GY,Guyana,5,11,Americas
+HT,Haiti,2,8,Americas
 HM,Heard Island and McDonald Islands,0,0,Oceania
 VA,Holy See,0,0,Europe
-HN,Honduras,0,3,Americas
-HK,Hong Kong,90,1631,Asia
-HU,Hungary,133,1765,Europe
-IS,Iceland,54,230,Europe
-IN,India,193,5470,Asia
-ID,Indonesia,5,78,Asia
-IR,Iran ,147,3652,Asia
-IQ,Iraq,4,102,Asia
-IE,Ireland,189,2721,Europe
-IM,Isle of Man,0,0,Europe
-IL,Israel,500,4382,Asia
-IT,Italy,1327,30139,Europe
-JM,Jamaica,9,33,Americas
-JP,Japan,754,14591,Asia
-JE,Jersey,211,3035,Europe
-JO,Jordan,9,226,Asia
-KZ,Kazakhstan,0,11,Asia
-KE,Kenya,4,87,Africa
+HN,Honduras,1,20,Americas
+HK,Hong Kong,535,4100,Asia
+HU,Hungary,451,3561,Europe
+IS,Iceland,176,543,Europe
+IN,India,1181,11354,Asia
+ID,Indonesia,61,364,Asia
+IR,Iran (Islamic Republic of),1,2,Asia
+IQ,Iraq,43,232,Asia
+IE,Ireland,789,5724,Europe
+IM,Isle of Man,0,1,Europe
+IL,Israel,1579,9255,Asia
+IT,Italy,6338,63785,Europe
+JM,Jamaica,24,88,Americas
+JP,Japan,2288,22798,Asia
+JE,Jersey,564,4693,Europe
+JO,Jordan,89,581,Asia
+KZ,Kazakhstan,13,99,Asia
+KE,Kenya,39,302,Africa
 KI,Kiribati,0,0,Oceania
-KP,Korea ,178,3744,Asia
-KR,Korea ,178,3744,Asia
-KW,Kuwait,20,118,Asia
-KG,Kyrgyzstan,0,0,Asia
-LA,Laos,0,2,Asia
-LV,Latvia,9,44,Europe
-LB,Lebanon,20,359,Asia
-LS,Lesotho,0,0,Africa
-LR,Liberia,2,7,Africa
-LY,Libya,1,15,Africa
-LI,Liechtenstein,2,4,Europe
-LT,Lithuania,23,237,Europe
-LU,Luxembourg,29,242,Europe
-MO,Macao,2,93,Asia
-MK,Macedonia ,19,96,Europe
-MG,Madagascar,0,2,Africa
-MW,Malawi,1,11,Africa
-MY,Malaysia,36,594,Asia
-MV,Maldives,0,0,Asia
-ML,Mali,1,3,Africa
-MT,Malta,9,105,Europe
+KP,Korea (Democratic People's Republic of),0,0,Asia
+KR,"Korea, Republic of",0,2,Asia
+KW,Kuwait,47,282,Asia
+KG,Kyrgyzstan,5,15,Asia
+LA,Laos,1,7,Asia
+LV,Latvia,41,147,Europe
+LB,Lebanon,74,963,Asia
+LS,Lesotho,0,2,Africa
+LR,Liberia,2,16,Africa
+LY,Libya,4,30,Africa
+LI,Liechtenstein,3,8,Europe
+LT,Lithuania,100,721,Europe
+LU,Luxembourg,138,681,Europe
+MO,Macao,15,233,Asia
+MG,Madagascar,2,19,Africa
+MW,Malawi,6,62,Africa
+MY,Malaysia,240,1414,Asia
+MV,Maldives,0,1,Asia
+ML,Mali,2,15,Africa
+MT,Malta,32,253,Europe
 MH,Marshall Islands,0,0,Oceania
-MQ,Martinique,0,9,Americas
-MR,Mauritania,0,1,Africa
-MU,Mauritius,2,26,Africa
+MQ,Martinique,3,43,Americas
+MR,Mauritania,0,5,Africa
+MU,Mauritius,5,67,Africa
 YT,Mayotte,0,0,Africa
-MX,Mexico,133,2150,Americas
-FM,Micronesia ,0,1,Oceania
-MD,Moldova ,2,14,Europe
-MC,Monaco,1,25,Europe
-MN,Mongolia,2,42,Asia
-ME,Montenegro,2,8,Europe
-MS,Montserrat,0,4,Americas
-MA,Morocco,4,189,Africa
-MZ,Mozambique,0,12,Africa
-MM,Myanmar,0,2,Asia
-NA,Namibia,0,4,Africa
+MX,Mexico,665,4169,Americas
+FM,Micronesia (Federated States of),0,0,Oceania
+MD,"Moldova, Republic of",0,0,Europe
+MC,Monaco,6,93,Europe
+MN,Mongolia,9,120,Asia
+ME,Montenegro,3,23,Europe
+MS,Montserrat,1,9,Americas
+MA,Morocco,46,484,Africa
+MZ,Mozambique,4,39,Africa
+MM,Myanmar,0,37,Asia
+NA,Namibia,1,14,Africa
 NR,Nauru,0,0,Oceania
-NP,Nepal,0,70,Asia
-NL,Netherlands,1012,16510,Europe
-NC,New Caledonia,0,4,Oceania
-NZ,New Zealand,107,1391,Oceania
-NI,Nicaragua,1,6,Americas
-NE,Niger,1,3,Africa
-NG,Nigeria,16,216,Africa
+NP,Nepal,33,284,Asia
+NL,Netherlands,4046,30859,Europe
+NC,New Caledonia,4,10,Oceania
+NZ,New Zealand,452,3032,Oceania
+NI,Nicaragua,1,11,Americas
+NE,Niger,3,12,Africa
+NG,Nigeria,78,770,Africa
 NU,Niue,0,0,Oceania
 NF,Norfolk Island,0,0,Oceania
+MK,North Macedonia,28,65,Europe
 MP,Northern Mariana Islands,0,0,Oceania
-NO,Norway,258,3403,Europe
-OM,Oman,3,84,Asia
-PK,Pakistan,33,259,Asia
+NO,Norway,1233,6850,Europe
+OM,Oman,28,198,Asia
+PK,Pakistan,150,882,Asia
 PW,Palau,0,1,Oceania
 PS,"Palestine, State of",0,0,Asia
-PA,Panama,3,46,Americas
-PG,Papua New Guinea,0,4,Oceania
-PY,Paraguay,1,49,Americas
-PE,Peru,4,82,Americas
-PH,Philippines,12,126,Asia
+PA,Panama,22,151,Americas
+PG,Papua New Guinea,0,5,Oceania
+PY,Paraguay,14,144,Americas
+PE,Peru,46,326,Americas
+PH,Philippines,83,549,Asia
 PN,Pitcairn,0,0,Oceania
-PL,Poland,116,1315,Europe
-PT,Portugal,170,3895,Europe
-PR,Puerto Rico,11,151,Americas
-QA,Qatar,28,214,Asia
-RE,Réunion,1,22,Africa
-RO,Romania,41,405,Europe
-RU,Russian Federation,14,163,Europe
-RW,Rwanda,0,14,Africa
+PL,Poland,624,3580,Europe
+PT,Portugal,822,7754,Europe
+PR,Puerto Rico,35,306,Americas
+QA,Qatar,138,709,Asia
+RE,Réunion,5,71,Africa
+RO,Romania,195,1467,Europe
+RU,Russian Federation,98,603,Europe
+RW,Rwanda,7,52,Africa
 BL,Saint Barthélemy,0,0,Americas
 SH,"Saint Helena, Ascension and Tristan da Cunha",0,0,Africa
-KN,Saint Kitts and Nevis,0,3,Americas
-LC,Saint Lucia,0,4,Americas
-MF,Saint Martin ,2,22,Americas
+KN,Saint Kitts and Nevis,0,11,Americas
+LC,Saint Lucia,6,24,Americas
+MF,Saint Martin (French part),0,0,Americas
 PM,Saint Pierre and Miquelon,0,0,Americas
-VC,Saint Vincent and the Grenadines,0,2,Americas
-WS,Samoa,0,0,Oceania
-SM,San Marino,0,6,Europe
-ST,Sao Tome and Principe,0,0,Africa
-SA,Saudi Arabia,93,1402,Asia
-SN,Senegal,1,8,Africa
-RS,Serbia,23,246,Europe
-SC,Seychelles,4,4,Africa
-SL,Sierra Leone,0,8,Africa
-SG,Singapore,180,2373,Asia
-SX,Sint Maarten ,1,3,Americas
-SK,Slovakia,10,140,Europe
-SI,Slovenia,34,251,Europe
-SB,Solomon Islands,0,0,Oceania
-SO,Somalia,0,0,Africa
-ZA,South Africa,76,844,Africa
+VC,Saint Vincent and the Grenadines,0,3,Americas
+WS,Samoa,1,3,Oceania
+SM,San Marino,1,18,Europe
+ST,Sao Tome and Principe,0,1,Africa
+SA,Saudi Arabia,503,3234,Asia
+SN,Senegal,5,44,Africa
+RS,Serbia,89,688,Europe
+SC,Seychelles,4,8,Africa
+SL,Sierra Leone,3,24,Africa
+SG,Singapore,824,4800,Asia
+SX,Sint Maarten (Dutch part),0,0,Americas
+SK,Slovakia,75,400,Europe
+SI,Slovenia,136,640,Europe
+SB,Solomon Islands,0,1,Oceania
+SO,Somalia,0,7,Africa
+ZA,South Africa,310,2420,Africa
 GS,South Georgia and the South Sandwich Islands,0,0,Americas
-SS,South Sudan,0,0,Africa
-ES,Spain,778,8722,Europe
-LK,Sri Lanka,5,66,Asia
-SD,Sudan,1,18,Africa
-SR,Suriname,0,0,Americas
+SS,South Sudan,0,3,Africa
+ES,Spain,2863,19903,Europe
+LK,Sri Lanka,32,173,Asia
+SD,Sudan,19,91,Africa
+SR,Suriname,0,11,Americas
 SJ,Svalbard and Jan Mayen,0,0,Europe
-SE,Sweden,755,18558,Europe
-CH,Switzerland,705,8241,Europe
-SY,Syrian Arab Republic,0,0,Asia
-TW,"Taiwan, Province of China",0,0,Asia
-TJ,Tajikistan,0,0,Asia
+SE,Sweden,2910,31913,Europe
+CH,Switzerland,2898,18390,Europe
+SY,Syrian Arab Republic,0,1,Asia
+TW,"Taiwan, Province of China",1,1,Asia
+TJ,Tajikistan,1,3,Asia
 TZ,"Tanzania, United Republic of",0,0,Africa
-TH,Thailand,24,444,Asia
+TH,Thailand,131,1191,Asia
 TL,Timor-Leste,0,0,Asia
-TG,Togo,0,4,Africa
+TG,Togo,0,12,Africa
 TK,Tokelau,0,0,Oceania
 TO,Tonga,0,1,Oceania
-TT,Trinidad and Tobago,0,7,Americas
-TN,Tunisia,6,106,Africa
-TR,Turkey,80,1264,Asia
-TM,Turkmenistan,0,0,Asia
+TT,Trinidad and Tobago,6,21,Americas
+TN,Tunisia,90,430,Africa
+TR,Turkey,382,3317,Asia
+TM,Turkmenistan,1,2,Asia
 TC,Turks and Caicos Islands,0,0,Americas
 TV,Tuvalu,0,0,Oceania
-UG,Uganda,7,136,Africa
-UA,Ukraine,15,157,Europe
-AE,United Arab Emirates,17,158,Asia
-GB,UK,2936,37401,Europe
-USA,USA,5531,98517,Americas
+UG,Uganda,42,375,Africa
+UA,Ukraine,50,316,Europe
+AE,United Arab Emirates,111,608,Asia
+GB,UK,8891,68637,Europe
+USA,USA,17199,154977,Americas
 UM,United States Minor Outlying Islands,0,0,Oceania
-UY,Uruguay,21,96,Americas
-UZ,Uzbekistan,0,3,Asia
+UY,Uruguay,51,250,Americas
+UZ,Uzbekistan,5,21,Asia
 VU,Vanuatu,0,4,Oceania
-VE,Venezuela ,4,62,Americas
-VN,Viet Nam,2,5,Asia
-VG,Virgin Islands ,0,1,Americas
-VI,Virgin Islands ,0,1,Americas
+VE,Venezuela (Bolivarian Republic of),0,0,Americas
+VN,Viet Nam,6,47,Asia
+VG,Virgin Islands (British),0,0,Americas
+VI,Virgin Islands (U.S.),0,0,Americas
 WF,Wallis and Futuna,0,0,Oceania
 EH,Western Sahara,0,0,Africa
-YE,Yemen,0,13,Asia
-ZM,Zambia,0,10,Africa
-ZW,Zimbabwe,0,18,Africa
-total,,19277,349605,
+YE,Yemen,5,38,Asia
+ZM,Zambia,4,48,Africa
+ZW,Zimbabwe,4,76,Africa
+total,,60923,568394,

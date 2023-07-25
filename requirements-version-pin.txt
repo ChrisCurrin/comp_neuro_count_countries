@@ -12,7 +12,7 @@ backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifact
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1680888073205/work
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1674535352125/work
 bokeh==3.1.1
-certifi==2023.5.7
+certifi==2023.7.22
 cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1671179421243/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1678108872112/work
 comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1679481329611/work

@@ -104,7 +104,7 @@ sortedcontainers==2.4.0
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1658207591808/work
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 svgutils==0.3.4
-tqdm==4.65.0
+tqdm==4.66.3
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1675110562325/work
 trio==0.22.0
 trio-websocket==0.10.2

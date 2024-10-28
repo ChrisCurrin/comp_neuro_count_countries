@@ -28,7 +28,7 @@ executing @ file:///home/conda/feedstock_root/build_artifacts/executing_16673173
 fake-useragent==1.1.3
 fastjsonschema @ file:///home/conda/feedstock_root/build_artifacts/python-fastjsonschema_1684761244589/work/dist
 flit_core @ file:///home/conda/feedstock_root/build_artifacts/flit-core_1684084314667/work/source/flit_core
-fonttools==4.39.4
+fonttools==4.43.0
 h11==0.14.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1682176699712/work
